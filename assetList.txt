@@ -1,0 +1,4 @@
+Images:
+Platformer Pack Redux (platforms): https://kenney.nl/assets/platformer-pack-redux
+Jumper Pack (characters, enemies, background, flag): https://kenney.nl/assets/jumper-pack
+The Complete Mobile Game Development Course - Platinum Edition (Module 3, preload bar sprite)
